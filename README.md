@@ -2,7 +2,7 @@
 
 ![CI](https://github.com/marusinaann/ajs-workers-page/actions/workflows/web.yml/badge.svg)
 
-https://marusinaann.github.ioajs-workers-pageb/
+https://marusinaann.github.io/ajs-workers-page/
 
 Правила сдачи задания:
 
