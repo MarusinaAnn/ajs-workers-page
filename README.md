@@ -1,8 +1,8 @@
 # Домашнее задание к занятию "12. WebWorkers, ServiceWorkers"
 
-![CI](https://github.com/unker/ahj-homeworks-workers-web/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/marusinaann/ajs-workers-page/actions/workflows/web.yml/badge.svg)
 
-https://unker.github.io/ahj-homeworks-workers-web/
+https://marusinaann.github.ioajs-workers-pageb/
 
 Правила сдачи задания:
 
